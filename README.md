@@ -38,14 +38,6 @@
  - 支持一对多从表自定义扩展(不限从表类型与从表数量) , 一对多从表使用扩展可轻松实现
  - 如果能上手框架，可以体会到不用996,更不用掉头发的感觉^_^
 
-## 框架适用范围 
- - 前后端分离项目
- - 编写各种后台restful api接口。后台基础代码由代码生成器完成,在生成的代码上继续编写业务即可
- - 前端表单开发(直接上手看demo即可)
- - 配合app做H5或全h5开发
- - 移动端开发、app、微信小程序(uniapp)，见下面介绍
- - 在现有的代码生成器功能上，继续定制开发代码生成器功能,解决重复性工作
-
 ## 框架开发依赖环境
  - 后台：VS2019、vs2022 、.NetCore3.1 、EFCore3.1、JWT、Dapper、SignalR、Quartz.Net、Autofac、SqlServer2016、Redis
  - 前端：VsCode、vue3（需要安装nodejs)、vuex、axios、promise、element ui、element plus
@@ -60,8 +52,15 @@
  - 商业版提供技术支持，开源版只有开源交流QQ群
 
 ## 图片预览
-
-
+![输入图片说明](Image/1.jpg)
+![输入图片说明](Image/2.jpg)
+![输入图片说明](Image/3.jpg)
+![输入图片说明](Image/4.jpg)
+![输入图片说明](Image/5.jpg)
+![输入图片说明](Image/6.png)
+![输入图片说明](Image/7.png)
+![输入图片说明](Image/8.jpg)
+![输入图片说明](Image/9.png)
 
 ## 项目启动与上手
 - 运行前先看后台appsettings.json配置属性说明；(注意修改DbType属性，修改为自己使用的数据库,数据库脚本在DB文件夹下)
