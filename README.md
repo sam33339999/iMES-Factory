@@ -43,6 +43,7 @@
  - 前端：VsCode、vue3（需要安装nodejs)、vuex、axios、promise、element ui、element plus
 
 ## 开源版和商业版区别
+ - 商业版提供【生产管理】模块
  - 商业版支持自定义实体扩展
  - 商业版支持打印模版设计
  - 商业版支持模版打印
