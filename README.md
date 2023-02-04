@@ -25,6 +25,7 @@
  - 开源版演示地址：http://imesopen.625sc.com
  - 帐号：admin密码：123456
  - gitee码云：https://gitee.com/ZM-Rid/i-mes-factory-housekeeper
+ - github地址：https://github.com/zmrid/imes-factory
 
 ## 框架核心
  - iMES工厂管家产品基于优秀的[Vue.NetCore](https://gitee.com/x_discoverer/Vue.NetCore)开发
