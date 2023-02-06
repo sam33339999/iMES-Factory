@@ -82,6 +82,12 @@
 ```
 ![输入图片说明](Image/pay.png)
 
+## 特别声明
+
+iMES工厂管家 项目已加入 [dotNET China](https://gitee.com/dotnetchina)  组织。<br/>
+
+![dotnetchina](https://gitee.com/dotnetchina/home/raw/master/assets/dotnetchina-raw.png "dotNET China LOGO")
+
 
 
  
