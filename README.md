@@ -28,6 +28,7 @@
  - 介绍视频：https://www.bilibili.com/video/BV1KY4y1d7EC/
  - 文档介绍：https://www.625sc.com/imes/324.html
  - 商业版演示地址：https://imes.625sc.com
+ - Java版演示地址：https://java.625sc.com:8443/imes   演示帐号：admin 密码：admin。如有采购需求，请联系QQ/微信：514224717
  - 开源版演示地址：https://imesopen.625sc.com
  - 帐号：admin密码：123456
  - gitee码云：https://gitee.com/ZM-Rid/imes
@@ -58,6 +59,7 @@
  - 商业版拥有移动端，可以一套代码导出H5,Android,iOS端。并且提供桌面端
  - 商业版提供可视化看板设计功能
  - 商业版提供技术支持，开源版只有开源交流QQ群
+ - Java版演示地址：https://java.625sc.com:8443/imes   演示帐号：admin 密码：admin。如有采购需求，请联系QQ/微信：514224717
 
 ## 图片预览
 ![输入图片说明](Image/1.jpg)
