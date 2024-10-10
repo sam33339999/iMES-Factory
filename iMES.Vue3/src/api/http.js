@@ -13,14 +13,14 @@ let loadingInstance;
 let loadingStatus = false;
 if (process.env.NODE_ENV == 'development') {
     axios.defaults.baseURL = 'http://localhost:9991/';
-}
-else if (process.env.NODE_ENV == 'debug') {
+} else if (process.env.NODE_ENV == 'debug') {
     axios.defaults.baseURL = 'http://localhost:9991/';
+} else if (process.env.NODE_ENV == 'production') {
+    axios.defaults.baseURL = 'https://backopen.625sc.com:9993/';
+} else {
+    axios.defaults.baseURL = '/';
 }
 
-else if (process.env.NODE_ENV == 'production') {
-    axios.defaults.baseURL = 'https://backopen.625sc.com:9993/';
-}
 if (!axios.defaults.baseURL.endsWith('/')) {
     axios.defaults.baseURL+="/";
 }
